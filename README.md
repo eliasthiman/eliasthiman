@@ -17,10 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliasthiman&show_icons=true&locale=en&layout=compact" alt="eliasthiman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliasthiman&show_icons=true&locale=en" alt="eliasthiman" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasthiman&" alt="eliasthiman" /></p>
-
 <!--
 ### Hi there 👋
 **eliasthiman/eliasthiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
