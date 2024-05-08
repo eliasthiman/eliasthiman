@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
 <h3 align="center">An enthusiastic learner for coding / programming and creating applications</h3>
 
-- 🔭 I’m currently working on **Pixel art arcade game**
+- 🔭 I’m currently working on **A pixel-art arcade-game**
 
 - 👯 I’m looking to collaborate on **New interesting projects**
 
