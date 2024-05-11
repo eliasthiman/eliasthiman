@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **New interesting projects**
 
-- 📫 How to reach me **eliasthiman@gmail.com**
+- 📫 How to reach me, contact me on Linkedin!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
