@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
 <h3 align="center">An enthusiastic learner for coding / programming and creating applications</h3>
-<h3 align="center">Note, this is my public profile where i post things from my other private account github.com/et222ny</h3>
+<h3 align="center">NOTE! This is my public profile where i post things from my other private account github.com/et222ny</h3>
 
 - 🔭 I’m currently working on **A pixel-art arcade-game**
 
