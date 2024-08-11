@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic learner for coding / programming and creating applications</h3>
 <h3 align="center">NOTE! This is my public profile where i post things from my other private account github.com/et222ny</h3>
 
-- 🔭 I’m currently working on **A pixel-art game in godot**
+- 🔭 I’m currently working on **a pixel-art game in godot**
 
 - 👯 I’m looking to collaborate on **New interesting projects**
 
